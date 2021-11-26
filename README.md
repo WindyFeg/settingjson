@@ -1,1 +1,21 @@
-# settingjson
+{
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "C_Cpp.updateChannel": "Insiders",
+    "editor.fontFamily": "'Fira Code',Consolas, 'Courier New', monospace",
+    //WindyFeng Setting settingjson/user
+    "debug.inlineValues": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line",
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingDelete": "auto",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.autoSurround": "languageDefined",
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.suggest.preview": true,
+    "editor.renderWhitespace": "boundary",
+    //"sync.gist": "d769037334f4ea23c1b560c38c1a4c18",
+}
